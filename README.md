@@ -6,11 +6,13 @@ Features
   Delete items from the shopping list
   Edit items in the shopping list
   Mark items as checked in the shopping list
+  
 Installation
   Clone the repository or download the zip file.
   Create a new MySQL database and import the shopping_list.sql file.
   Edit the dbcon.php file with your database connection details.
   Upload the files to your web server.
+  
 Usage
   Open the index.php file in your web browser.
   Enter an item in the input field and click "Add Item" to add it to the list.
